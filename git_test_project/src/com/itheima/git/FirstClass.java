@@ -9,4 +9,8 @@ public class FirstClass {
     public void test() {
         System.out.println("hello");
     }
+
+    public void newBranch() {
+        System.out.println("dev.001");
+    }
 }
